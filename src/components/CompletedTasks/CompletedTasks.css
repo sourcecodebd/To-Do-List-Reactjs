@@ -1,0 +1,21 @@
+.table-custom{
+    height: 500px;
+    overflow: scroll;
+}
+.table-custom::-webkit-scrollbar{
+    display: none;
+}
+.table-custom-header{
+    background-color: rgb(43, 138, 247);
+    color: white;
+}
+.table-custom-body{
+    color: white;
+    padding: 10px;
+}
+.green{
+    background-color: rgb(46, 189, 106);
+}
+.red{
+    background-color: #aa66cc;
+}

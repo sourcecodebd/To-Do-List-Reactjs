@@ -1,0 +1,21 @@
+.nav{
+    background-color: #98375f;
+    padding: 10px 30px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav .options{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-right: 10%;
+}
+.heading-text{
+    font-size: 30px;
+}
+a, a:focus, a:hover{
+    text-decoration: none;
+    color: inherit;
+}
